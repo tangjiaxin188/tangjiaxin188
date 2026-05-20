@@ -4,8 +4,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:send@email.tangjiaxin.top"><img src="https://img.shields.io/badge/Email-wx@aurise.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/tangjiaxin188"><img src="https://img.shields.io/badge/GitHub-wangxu--dev-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:send@email.tangjiaxin.top"><img src="https://img.shields.io/badge/Email-send@email.tangjiaxin.top-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/tangjiaxin188"><img src="https://img.shields.io/badge/GitHub-tangjiaxin188-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ## 🚀 About
