@@ -19,5 +19,5 @@
 </p>
 
 <p align="center">
-  <sub>Made with ❤️ by Wang Xu</sub>
+  <sub>Made with ❤️ by Tangjiaxin</sub>
 </p>
