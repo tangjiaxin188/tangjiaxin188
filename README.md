@@ -1,17 +1,17 @@
-<h1 align="center">Hi, I'm Wang Xu 👋</h1>
+<h1 align="center">Hi, I'm Tangjiaxin 👋</h1>
 <p align="center">
-  <em>Client-side Developer | React Native • iOS • Frontend</em>
+  <em>自由开发者 | C • Rust • Zig • Qt • Linux • Godot</em>
 </p>
 
 <p align="center">
-  <a href="mailto:wx@aurise.dev"><img src="https://img.shields.io/badge/Email-wx@aurise.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/wangxu-dev"><img src="https://img.shields.io/badge/GitHub-wangxu--dev-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:send@email.tangjiaxin.top"><img src="https://img.shields.io/badge/Email-wx@aurise.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/tangjiaxin188"><img src="https://img.shields.io/badge/GitHub-wangxu--dev-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ## 🚀 About
-- Client-side developer focused on mobile apps and modern frontend engineering.
-- Experienced with React Native, Expo, and web tooling.
-- Build clean, reliable, and fast user experiences.
+- 自由开发者
+- 会学习各种开源项目，对计算机有兴趣
+- Linux用户
 
 ## 🧩 Tech Stack + Languages
 <p align="center">
