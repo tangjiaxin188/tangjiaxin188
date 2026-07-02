@@ -21,9 +21,9 @@ jobs:
           template: classic
           base: header
           plugin_languages: yes
-          plugin_languages_indepth: yes
           plugin_languages_skipped: mysite,fenxing-site,myblog
           plugin_languages_sections: most-used
+          plugin_languages_indepth: yes
           plugin_languages_details: lines
           plugin_languages_limit: 8
           plugin_languages_threshold: 2%
